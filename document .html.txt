@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <meta name="description" content=" online training platform">
+    <meta name="keywords" content="python,Css,html,javascript">   
+</head>
+<body>
+    
+<h1>Shopy mo</h1>
+<h2>Shopy mo</h2>
+<h3>Shopy mo</h3>
+<h4>shopy mo</h4>
+<h5>shopy mo</h5>
+<h6>shopy mo</h6>
+
+<p> welcom to our store</p>
+
+ <ul>
+      
+    </ul>
+ <li> Clothing</li>
+ <li> Bags</li>
+ <li> Shoes</li>
+     <ul>
+    
+
+        <ol>
+      <li> Clothing</li>
+      <li> Bags</li>   
+      <li> Shoes</li>
+
+    </ol>
+
+
+<table>
+  <tr>
+ <th> Type</th>
+ <th> Depiction</th>
+ <th> Size</th>
+  </tr>
+      <tr>
+ <td> Dress</td>
+ <td> Long</td>
+ <td> Small</td>
+
+        
+     </tr>
+    </table>
+
+<a href="https://www.google.de/"> Visit our website</a>
+
+<img src="https://www.lokalmatador.de/fileadmin/_processed_/d/d/csm_Recht-online-shopping-Einkaufstueten-Laptop_67cb885e54.jpg" alt="img.link">
+
+
+
+  <body>
+<html>
+    
+
+khadija
+
+
+ 
